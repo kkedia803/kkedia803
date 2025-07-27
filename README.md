@@ -21,7 +21,7 @@
 
 - 💻 Final Year IT Student  
 - ✍️ Currently building **Traco**, a travel booking platform with Supabase + Next.js  
-- 🧠 Exploring **Serveerless APIs**, **AI Tools**, and **New Ideas**
+- 🧠 Exploring **Serverless APIs**, **AI Tools**, and **New Ideas**
 - 🧩 I love connecting ideas and creating user-first experiences
 - 📨 Reach me at: **kartikkedia011@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/1rTkKkxMlntf-jUBq6hATDpEntzISFBYJ/view)
