@@ -1,8 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Kartik Kedia</h1>
 <h3 align="center">🚀 Developer | 💡 Thinker | 🌏 Explorer</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=2F80ED&width=435&lines=Full-Stack+Developer;Web+Dev+%7C+Next.js+%7C+Supabase;Learning+Analytics+and+Finance;Loves+Building+Side+Projects+%F0%9F%91%BB" alt="Typing SVG" />
+<div align="center" margin-left:"140px">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=2F80ED&width=360&lines=FullStack(MERN)+Developer;Loves+Trying+New+Project+Ideas+%F0%9F%91%BB;Open+For+Work+%F0%9F%A4%9D+%F0%9F%A4%9D+%F0%9F%A4%9D+%F0%9F%A4%9D" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 - 💻 Final Year IT Student  
-- ✍️ Building **Traco**, a travel booking platform with Supabase + Next.js  
+- ✍️ Currently building **Traco**, a travel booking platform with Supabase + Next.js  
 - 🧠 Exploring **Serveerless APIs**, **AI Tools**, and **New Ideas**
 - 🧩 I love connecting ideas and creating user-first experiences
 - 📨 Reach me at: **kartikkedia011@gmail.com**
@@ -67,8 +67,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkedia803&show_icons=true&theme=react" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkedia803&layout=compact&theme=react" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kkedia803&show_icons=true&theme=react" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkedia803&layout=compact&theme=react" width="40%"/>
 </p>
 
 ---
